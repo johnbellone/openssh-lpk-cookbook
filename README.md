@@ -12,7 +12,7 @@ openssh-lpk-cookbook
 
 ## Authors
 Created and maintained by [John Bellone][1] [@johnbellone][2]
-(<jbellone@bloomberg.net>) and a growing community of
+[![endorse](http://api.coderwall.com/johnbellone/endorsecount.png)](http://coderwall.com/johnbellone) and a growing community of
 [contributors][3].
 
 [1]: https://github.com/johnbellone
