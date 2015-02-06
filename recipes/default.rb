@@ -12,7 +12,7 @@ if rhel?
 end
 
 if ubuntu_before_trusty?
-  Chef::Application.fatal! 'openssh-lpk recipe is not supported before Ubuntu 14.04'
+  Chef::Application.fatal! 'openssh-lpk recipe is not supported before Ubuntu 14.04!'
 end
 
 node.default['openssh']['server']['authorized_keys_command'] = '/usr/libexec/openssh/ssh-ldap-wrapper'
